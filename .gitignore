@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Imported Assets
+[Aa]ssets/Udon/
+[Aa]ssets/VRCSDK/
